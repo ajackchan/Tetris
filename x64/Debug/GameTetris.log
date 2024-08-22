@@ -1,0 +1,8 @@
+﻿  Gdi.cpp
+  Main.cpp
+D:\Tetris\Main.cpp(58,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Tetris.cpp
+  正在生成代码...
+  
+GameTetris.rc(24): error RC2135: file not found: small.ico
+  
